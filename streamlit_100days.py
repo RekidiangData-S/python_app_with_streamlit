@@ -415,6 +415,7 @@ def main():
                     scisor = Image.open('images/m_scisor.jpg')
                     st.image(scisor, use_column_width=True)
                     st.warning("It's a draw")
+         
 
 
 if __name__ == "__main__":
